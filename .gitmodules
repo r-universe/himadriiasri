@@ -5,3 +5,6 @@
 [submodule "PMEvapotranspiration"]
 	path = PMEvapotranspiration
 	url = https://github.com/cran/PMEvapotranspiration
+[submodule "SVMD"]
+	path = SVMD
+	url = https://github.com/cran/SVMD
